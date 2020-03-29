@@ -1,0 +1,1366 @@
+﻿{
+    "ACNH Fish": [
+        {
+            "Fish": "Bitterling",
+            "Location": "River",
+            "Shadow Size": "Smallest",
+            "Price": "900 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "November-March",
+            "Southern Hemisphere": "May-September"
+        },
+        {
+            "Fish": "Pale Chub",
+            "Location": "River",
+            "Shadow Size": "Smallest",
+            "Price": "160 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Crucian Carp",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "160 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Dace",
+            "Location": "River",
+            "Shadow Size": "Medium",
+            "Price": "240 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Carp",
+            "Location": "Pond",
+            "Shadow Size": "Large",
+            "Price": "300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Koi",
+            "Location": "Pond",
+            "Shadow Size": "Large",
+            "Price": "4,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Goldfish",
+            "Location": "Pond",
+            "Shadow Size": "Smallest",
+            "Price": "1,300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Pop-eyed Goldfish",
+            "Location": "Pond",
+            "Shadow Size": "Smallest",
+            "Price": "1,300 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Ranchu Goldfish",
+            "Location": "Pond",
+            "Shadow Size": "Small",
+            "Price": "4,500 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Killifish",
+            "Location": "Pond",
+            "Shadow Size": "Smallest",
+            "Price": "300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-August",
+            "Southern Hemisphere": "October-February"
+        },
+        {
+            "Fish": "Crawfish",
+            "Location": "Pond",
+            "Shadow Size": "Small",
+            "Price": "200 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Fish": "Soft-shelled Turtle",
+            "Location": "River",
+            "Shadow Size": "Large",
+            "Price": "3,750 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "August-September",
+            "Southern Hemisphere": "February-March"
+        },
+        {
+            "Fish": "Snapping Turtle",
+            "Location": "River",
+            "Shadow Size": "X Large",
+            "Price": "5,000 Bells",
+            "Time": "9 a.m. - 4 a.m.",
+            "Northern Hemisphere": "April-October",
+            "Southern Hemisphere": "October-April"
+        },
+        {
+            "Fish": "Tadpole",
+            "Location": "Pond",
+            "Shadow Size": "Smallest",
+            "Price": "100 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "March-July",
+            "Southern Hemisphere": "September-January"
+        },
+        {
+            "Fish": "Frog",
+            "Location": "Pond",
+            "Shadow Size": "Small",
+            "Price": "120 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "May-August",
+            "Southern Hemisphere": "November-Feburary"
+        },
+        {
+            "Fish": "Freshwater Goby",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "400 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Loach",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "400 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "March-May",
+            "Southern Hemisphere": "September-November"
+        },
+        {
+            "Fish": "Catfish",
+            "Location": "Pond",
+            "Shadow Size": "Large",
+            "Price": "800 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Giant Snakehead",
+            "Location": "Pond",
+            "Shadow Size": "X Large",
+            "Price": "5,500 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "June-August",
+            "Southern Hemisphere": "December-February"
+        },
+        {
+            "Fish": "Bluegill",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "180 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Yellow Perch",
+            "Location": "River",
+            "Shadow Size": "Medium",
+            "Price": "300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "October-March",
+            "Southern Hemisphere": "April-September"
+        },
+        {
+            "Fish": "Black Bass",
+            "Location": "River",
+            "Shadow Size": "Large",
+            "Price": "400 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Tilapia",
+            "Location": "River",
+            "Shadow Size": "Medium",
+            "Price": "800 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "June-October",
+            "Southern Hemisphere": "December-April"
+        },
+        {
+            "Fish": "Pike",
+            "Location": "River",
+            "Shadow Size": "X Large",
+            "Price": "1,800 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "September-December",
+            "Southern Hemisphere": "March-June"
+        },
+        {
+            "Fish": "Pond Smelt",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "December-February",
+            "Southern Hemisphere": "June-August"
+        },
+        {
+            "Fish": "Sweetfish",
+            "Location": "River",
+            "Shadow Size": "Medium",
+            "Price": "900 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "July-September",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Fish": "Cherry Salmon",
+            "Location": "River (Clifftop)",
+            "Shadow Size": "Medium",
+            "Price": "1,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "March-June, September-November",
+            "Southern Hemisphere": "March-May, September-December"
+        },
+        {
+            "Fish": "Char",
+            "Location": "River (Clifftop)/Pond",
+            "Shadow Size": "Medium",
+            "Price": "3,800 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "March-June, September-November",
+            "Southern Hemisphere": "March-May, September-December"
+        },
+        {
+            "Fish": "Golden Trout",
+            "Location": "River (Clifftop)",
+            "Shadow Size": "Medium",
+            "Price": "15,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "March-June, September-November",
+            "Southern Hemisphere": "March-May, September-December"
+        },
+        {
+            "Fish": "Stringfish",
+            "Location": "River (Clifftop)",
+            "Shadow Size": "Largest",
+            "Price": "15,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "December-March",
+            "Southern Hemisphere": "June-September"
+        },
+        {
+            "Fish": "Salmon",
+            "Location": "River (mouth)",
+            "Shadow Size": "Small",
+            "Price": "700 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "September",
+            "Southern Hemisphere": "March"
+        },
+        {
+            "Fish": "King Salmon",
+            "Location": "River (mouth)",
+            "Shadow Size": "Smallest",
+            "Price": "1,800 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "September",
+            "Southern Hemisphere": "March"
+        },
+        {
+            "Fish": "Mitten Crab",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "2,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "September-November",
+            "Southern Hemisphere": "March-May"
+        },
+        {
+            "Fish": "Guppy",
+            "Location": "River",
+            "Shadow Size": "Smallest",
+            "Price": "1,300 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "October-May"
+        },
+        {
+            "Fish": "Nibble Fish",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "1,500 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "May-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Fish": "Angelfish",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "3,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Betta",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "2,500 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Neon Tetra",
+            "Location": "River",
+            "Shadow Size": "Smallest",
+            "Price": "500 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "October-May"
+        },
+        {
+            "Fish": "Rainbowfish",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "800 Bells",
+            "Time": "9 a.m. - 4 p.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Piranha",
+            "Location": "River",
+            "Shadow Size": "Small",
+            "Price": "2,500 Bells",
+            "Time": "9 a.m. - 4 p.m., 9 p.m. - 4 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Arowana",
+            "Location": "River",
+            "Shadow Size": "Large",
+            "Price": "10,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Dorado",
+            "Location": "River",
+            "Shadow Size": "X Large",
+            "Price": "15,000 Bells",
+            "Time": "4 a.m. - 9 p.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Gar",
+            "Location": "Pond",
+            "Shadow Size": "Largest",
+            "Price": "6,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "July-October",
+            "Southern Hemisphere": "January-April"
+        },
+        {
+            "Fish": "Arapaima",
+            "Location": "River",
+            "Shadow Size": "Largest",
+            "Price": "10,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Saddled Bichir",
+            "Location": "River",
+            "Shadow Size": "Large",
+            "Price": "4,000 Bells",
+            "Time": "9 p.m. - 4 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Sturgeon",
+            "Location": "River (mouth)",
+            "Shadow Size": "Largest",
+            "Price": "10,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "September-March",
+            "Southern Hemisphere": "March-September"
+        },
+        {
+            "Fish": "Sea Butterfly",
+            "Location": "Sea",
+            "Shadow Size": "Smallest",
+            "Price": "1,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "December-March",
+            "Southern Hemisphere": "June-September"
+        },
+        {
+            "Fish": "Sea Horse",
+            "Location": "Sea",
+            "Shadow Size": "Smallest",
+            "Price": "1,100 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "October-May"
+        },
+        {
+            "Fish": "Clown Fish",
+            "Location": "Sea",
+            "Shadow Size": "Smallest",
+            "Price": "650 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Fish": "Surgeonfish",
+            "Location": "Sea",
+            "Shadow Size": "Small",
+            "Price": "1,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Fish": "Butterfly Fish",
+            "Location": "Sea",
+            "Shadow Size": "Small",
+            "Price": "1,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Fish": "Napoleonfish",
+            "Location": "Sea",
+            "Shadow Size": "Largest",
+            "Price": "10,000 Bells",
+            "Time": "4 a.m. - 9 p.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Fish": "Zebra Turkeyfish",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "October-May"
+        },
+        {
+            "Fish": "Blowfish",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "5,000 Bells",
+            "Time": "6 p.m. - 4 a.m.",
+            "Northern Hemisphere": "November-February",
+            "Southern Hemisphere": "May-August"
+        },
+        {
+            "Fish": "Puffer Fish",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "250 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "July-September",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Fish": "Anchovy",
+            "Location": "Sea",
+            "Shadow Size": "Small",
+            "Price": "200 Bells",
+            "Time": "4 a.m. - 9 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Horse Mackerel",
+            "Location": "Sea",
+            "Shadow Size": "Small",
+            "Price": "150 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Barred Knifejaw",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "5,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "March-November",
+            "Southern Hemisphere": "September-May"
+        },
+        {
+            "Fish": "Sea Bass",
+            "Location": "Sea",
+            "Shadow Size": "X Large",
+            "Price": "400 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Red Snapper",
+            "Location": "Sea",
+            "Shadow Size": "Large",
+            "Price": "3,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Dab",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "October-April",
+            "Southern Hemisphere": "April-October"
+        },
+        {
+            "Fish": "Olive Flounder",
+            "Location": "Sea",
+            "Shadow Size": "Large",
+            "Price": "800 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Squid",
+            "Location": "Sea",
+            "Shadow Size": "Medium",
+            "Price": "500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "December-August",
+            "Southern Hemisphere": "June-February"
+        },
+        {
+            "Fish": "Moray Eel",
+            "Location": "Sea",
+            "Shadow Size": "X Large",
+            "Price": "2,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "August-October",
+            "Southern Hemisphere": "February-April"
+        },
+        {
+            "Fish": "Ribbon Eel",
+            "Location": "Sea",
+            "Shadow Size": "Narrow",
+            "Price": "600 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "June-October",
+            "Southern Hemisphere": "December-April"
+        },
+        {
+            "Fish": "Tuna",
+            "Location": "Pier",
+            "Shadow Size": "X Large",
+            "Price": "7,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "November-April",
+            "Southern Hemisphere": "May-October"
+        },
+        {
+            "Fish": "Blue Marlin",
+            "Location": "Pier",
+            "Shadow Size": "X Large",
+            "Price": "10,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "July-September, November-April",
+            "Southern Hemisphere": "January-March, May-November"
+        },
+        {
+            "Fish": "Giant Trevally",
+            "Location": "Pier",
+            "Shadow Size": "Large",
+            "Price": "4,500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Mahi-mahi",
+            "Location": "Sea",
+            "Shadow Size": "Large",
+            "Price": "6,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Fish": "Ocean Sunfish",
+            "Location": "Sea",
+            "Shadow Size": "Largest (Fin)",
+            "Price": "4,000 Bells",
+            "Time": "4 a.m. - 9 p.m.",
+            "Northern Hemisphere": "July-September",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Fish": "Ray",
+            "Location": "Sea",
+            "Shadow Size": "X Large",
+            "Price": "3,000 Bells",
+            "Time": "4 a.m. - 9 p.m.",
+            "Northern Hemisphere": "August-November",
+            "Southern Hemisphere": "February-May"
+        },
+        {
+            "Fish": "Saw Shark",
+            "Location": "Sea",
+            "Shadow Size": "Largest (Fin)",
+            "Price": "12,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Hammerhead Shark",
+            "Location": "Sea",
+            "Shadow Size": "Largest (Fin)",
+            "Price": "8,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Great White Shark",
+            "Location": "Sea",
+            "Shadow Size": "Largest (Fin)",
+            "Price": "15,000 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Whale Shark",
+            "Location": "Sea",
+            "Shadow Size": "Largest (Fin)",
+            "Price": "13,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Suckerfish",
+            "Location": "Sea",
+            "Shadow Size": "(Fin)",
+            "Price": "1,500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Fish": "Football Fish",
+            "Location": "Sea",
+            "Shadow Size": "Large",
+            "Price": "2,500 Bells",
+            "Time": "4 p.m. - 9 a.m.",
+            "Northern Hemisphere": "November-March",
+            "Southern Hemisphere": "May-September"
+        },
+        {
+            "Fish": "Oarfish",
+            "Location": "Sea",
+            "Shadow Size": "Largest",
+            "Price": "9,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "December-May",
+            "Southern Hemisphere": "June-November"
+        },
+        {
+            "Fish": "Barreleye",
+            "Location": "Sea",
+            "Shadow Size": "Small",
+            "Price": "15,000 Bells",
+            "Time": "9 p.m. - 4 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Fish": "Coelacanth",
+            "Location": "Sea (rainy days)",
+            "Shadow Size": "Largest",
+            "Price": "15,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        }
+    ],
+    "ACNH Insects": [
+        {
+            "Insect": "Common Butterfly",
+            "Location": "Flying",
+            "Price": "160 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "September-June",
+            "Southern Hemisphere": "March-December"
+        },
+        {
+            "Insect": "Yellow Butterfly",
+            "Location": "Flying",
+            "Price": "160 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "March-June, September-October",
+            "Southern Hemisphere": "March-April, September-December"
+        },
+        {
+            "Insect": "Tiger Butterfly",
+            "Location": "Flying",
+            "Price": "240 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "March-September",
+            "Southern Hemisphere": "September-March"
+        },
+        {
+            "Insect": "Peacock Butterfly",
+            "Location": "Flying",
+            "Price": "2,500 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "March-June",
+            "Southern Hemisphere": "September-December"
+        },
+        {
+            "Insect": "Common Bluebottle",
+            "Location": "Flying",
+            "Price": "300 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "April-August",
+            "Southern Hemisphere": "October-February"
+        },
+        {
+            "Insect": "Paper Kite Butterfly",
+            "Location": "Flying",
+            "Price": "1,000 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Great Purple Emperor",
+            "Location": "Flying",
+            "Price": "3,000 Bells",
+            "Time": "4 a.m. - 7 p.m.",
+            "Northern Hemisphere": "May-August",
+            "Southern Hemisphere": "November-February"
+        },
+        {
+            "Insect": "Monach Butterfly",
+            "Location": "Flying",
+            "Price": "140 Bells",
+            "Time": "4 a.m. - 5 p.m.",
+            "Northern Hemisphere": "September-November",
+            "Southern Hemisphere": "March-May"
+        },
+        {
+            "Insect": "Emperor Butterfly",
+            "Location": "Flying",
+            "Price": "4,000 Bells",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "June-September, December-March",
+            "Southern Hemisphere": "December-March, June-September"
+        },
+        {
+            "Insect": "Agrias Butterfly",
+            "Location": "Flying",
+            "Price": "3,000 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Insect": "Raja Brooke's Birdwing",
+            "Location": "Flying",
+            "Price": "2,500 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "April-September, December-February",
+            "Southern Hemisphere": "November-March, June-August"
+        },
+        {
+            "Insect": "Queen Alexandra's Birdwing",
+            "Location": "Flying",
+            "Price": "4,000 Bells",
+            "Time": "8 a.m. - 4 p.m.",
+            "Northern Hemisphere": "May-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Insect": "Moth",
+            "Location": "Flying by light",
+            "Price": "130 Bells",
+            "Time": "7 p.m. - 4 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Atlas Moth",
+            "Location": "On trees",
+            "Price": "3,000 Bells",
+            "Time": "7 p.m. - 4 a.m.",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Insect": "Madagascan Sunset Moth",
+            "Location": "Flying",
+            "Price": "2,500 Bells",
+            "Time": "8 a.m. - 4 p.m.",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Insect": "Long Locust",
+            "Location": "On ground",
+            "Price": "200 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "November-May"
+        },
+        {
+            "Insect": "Migratory Locust",
+            "Location": "On ground",
+            "Price": "600 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "August-November",
+            "Southern Hemisphere": "February-May"
+        },
+        {
+            "Insect": "Rice Grasshopper",
+            "Location": "On ground",
+            "Price": "160 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "August-November",
+            "Southern Hemisphere": "February-May"
+        },
+        {
+            "Insect": "Grasshopper",
+            "Location": "On ground",
+            "Price": "160 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "July-September",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Insect": "Cricket",
+            "Location": "Dig at cricket noise",
+            "Price": "130 Bells",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "September-November",
+            "Southern Hemisphere": "March-May"
+        },
+        {
+            "Insect": "Bell Cricket",
+            "Location": "On ground",
+            "Price": "430 Bells",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "September-October",
+            "Southern Hemisphere": "March-April"
+        },
+        {
+            "Insect": "Mantis",
+            "Location": "On flowers",
+            "Price": "430 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "March-November",
+            "Southern Hemisphere": "September-May"
+        },
+        {
+            "Insect": "Orchid Mantis",
+            "Location": "On white flowers",
+            "Price": "2,400 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "March-November",
+            "Southern Hemisphere": "September-May"
+        },
+        {
+            "Insect": "Honeybee",
+            "Location": "Flying",
+            "Price": "200 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "March-July",
+            "Southern Hemisphere": "March-July"
+        },
+        {
+            "Insect": "Wasp",
+            "Location": "Falls from shaking trees",
+            "Price": "2,500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Brown Cicada",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Robust Cicada",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Giant Cicada",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Walker Cicada",
+            "Location": "On trees",
+            "Price": "400 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "August-September",
+            "Southern Hemisphere": "February-March"
+        },
+        {
+            "Insect": "Evening Cicada",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "4 a.m. - 8 a.m., 4 p.m. - 7 p.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Cicada Shell",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Red Dragonfly",
+            "Location": "Flying",
+            "Price": "180 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "September-October",
+            "Southern Hemisphere": "March-April"
+        },
+        {
+            "Insect": "Darner Dragonfly",
+            "Location": "Flying",
+            "Price": "230 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "April-October",
+            "Southern Hemisphere": "October-April"
+        },
+        {
+            "Insect": "Banded Dragonfly",
+            "Location": "Flying",
+            "Price": "4,500 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        },
+        {
+            "Insect": "Damselfly",
+            "Location": "Flying",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "November-February",
+            "Southern Hemisphere": "May-August"
+        },
+        {
+            "Insect": "Firefly",
+            "Location": "Flying",
+            "Price": "N/A",
+            "Time": "7 p.m. - 4 a.m.",
+            "Northern Hemisphere": "June",
+            "Southern Hemisphere": "December"
+        },
+        {
+            "Insect": "Mole Cricket",
+            "Location": "Underground",
+            "Price": "500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "November-May",
+            "Southern Hemisphere": "May-November"
+        },
+        {
+            "Insect": "Pondskater",
+            "Location": "Ponds",
+            "Price": "130 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "May-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Insect": "Diving Beetle",
+            "Location": "Ponds and rivers",
+            "Price": "800 Bells",
+            "Time": "8 a.m. - 7 p.m.",
+            "Northern Hemisphere": "May-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Insect": "Giant Water Bug",
+            "Location": "Ponds and rivers",
+            "Price": "2,000 Bells",
+            "Time": "7 p.m. - 8 a.m.",
+            "Northern Hemisphere": "April-September",
+            "Southern Hemisphere": "October-March"
+        },
+        {
+            "Insect": "Stinkbug",
+            "Location": "On flowers",
+            "Price": "120 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "March-November",
+            "Southern Hemisphere": "September-May"
+        },
+        {
+            "Insect": "Man-faced Stink Bug",
+            "Location": "On flowers",
+            "Price": "1,000 Bells",
+            "Time": "7 p.m. - 8 a.m.",
+            "Northern Hemisphere": "March-November",
+            "Southern Hemisphere": "September-May"
+        },
+        {
+            "Insect": "Ladybug",
+            "Location": "On flowers",
+            "Price": "200 Bells",
+            "Time": "8 a.m. - 5 p.m.",
+            "Northern Hemisphere": "March-June, October",
+            "Southern Hemisphere": "September-December, April"
+        },
+        {
+            "Insect": "Tiger Beetle",
+            "Location": "On ground",
+            "Price": "1,500 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "February-November",
+            "Southern Hemisphere": "August-May"
+        },
+        {
+            "Insect": "Jewel Beetle",
+            "Location": "On trees",
+            "Price": "2,400 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "April-August",
+            "Southern Hemisphere": "October-February"
+        },
+        {
+            "Insect": "Violin Beetle",
+            "Location": "On tree stumps",
+            "Price": "450 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "May-June, September-November",
+            "Southern Hemisphere": "November-December, March-April"
+        },
+        {
+            "Insect": "Citrus Long-horned Beetle",
+            "Location": "On tree stumps",
+            "Price": "350 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Rosalia Batesi Beetle",
+            "Location": "On tree stumps",
+            "Price": "3,000 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "May-September",
+            "Southern Hemisphere": "November-March"
+        },
+        {
+            "Insect": "Blue Weevil Beetle",
+            "Location": "N/A",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Dung Beetle",
+            "Location": "Pushing snowballs",
+            "Price": "N/A",
+            "Time": "N/A",
+            "Northern Hemisphere": "December-February",
+            "Southern Hemisphere": "June-August"
+        },
+        {
+            "Insect": "Earth-boring Dung Beetle",
+            "Location": "On ground",
+            "Price": "300 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "July-September",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Insect": "Scarab Beetle",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "11 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Drone Beetle",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "June-August",
+            "Southern Hemisphere": "December-February"
+        },
+        {
+            "Insect": "Goliath Beetle",
+            "Location": "On trees",
+            "Price": "8,000 Bells",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Insect": "Saw Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Miyama Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Giant Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "11 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Rainbow Stag",
+            "Location": "On trees",
+            "Price": "6,000 Bells",
+            "Time": "7 p.m. - 8 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Insect": "Cyclommatus Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Golden Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Giraffe Stag",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Horned Dynastid",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Horned Atlas",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Horned Elephant",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Horned Herucles",
+            "Location": "On trees",
+            "Price": "N/A",
+            "Time": "5 p.m. - 8 a.m.",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-February"
+        },
+        {
+            "Insect": "Walking Stick",
+            "Location": "Falls from shaking trees",
+            "Price": "N/A",
+            "Time": "4 a.m. - 8 a.m., 5 p.m. - 7 p.m.",
+            "Northern Hemisphere": "July-November",
+            "Southern Hemisphere": "January-May"
+        },
+        {
+            "Insect": "Walking Leaf",
+            "Location": "Near trees, disguised as furniture leaf",
+            "Price": "600 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "July-August",
+            "Southern Hemisphere": "January-March"
+        },
+        {
+            "Insect": "Bagworm",
+            "Location": "Falls from shaking trees",
+            "Price": "600 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Ant",
+            "Location": "On rotten food",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Hermit Crab",
+            "Location": "Beach",
+            "Price": "1,000 Bells",
+            "Time": "7 p.m. - 8 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Wharf Roach",
+            "Location": "On rocks at beach",
+            "Price": "200 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Fly",
+            "Location": "On trash items",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Mosquito",
+            "Location": "Flying",
+            "Price": "130 Bells",
+            "Time": "5 p.m. - 4 a.m.",
+            "Northern Hemisphere": "June-September",
+            "Southern Hemisphere": "December-March"
+        },
+        {
+            "Insect": "Flea",
+            "Location": "On villagers",
+            "Price": "N/A",
+            "Time": "All day",
+            "Northern Hemisphere": "April-November",
+            "Southern Hemisphere": "October-May"
+        },
+        {
+            "Insect": "Snail",
+            "Location": "On rocks (raining)",
+            "Price": "250 Bells",
+            "Time": "All day",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Pill Bug",
+            "Location": "Hit rocks",
+            "Price": "250 Bells",
+            "Time": "11 p.m. - 4 p.m.",
+            "Northern Hemisphere": "September-June",
+            "Southern Hemisphere": "March-December"
+        },
+        {
+            "Insect": "Centipede",
+            "Location": "Hit rocks",
+            "Price": "300 Bells",
+            "Time": "4 p.m. - 11 p.m.",
+            "Northern Hemisphere": "September-June",
+            "Southern Hemisphere": "March-December"
+        },
+        {
+            "Insect": "Spider",
+            "Location": "Falls from shaking trees",
+            "Price": "480 Bells",
+            "Time": "7 p.m. - 8 a.m.",
+            "Northern Hemisphere": "Year-round",
+            "Southern Hemisphere": "Year-round"
+        },
+        {
+            "Insect": "Tarantula",
+            "Location": "On ground",
+            "Price": "8,000 Bells",
+            "Time": "7 p.m. - 4 a.m.",
+            "Northern Hemisphere": "November-April",
+            "Southern Hemisphere": "May-October"
+        },
+        {
+            "Insect": "Scorpion",
+            "Location": "On ground",
+            "Price": "8,000 Bells",
+            "Time": "7 p.m. - 4 a.m.",
+            "Northern Hemisphere": "May-October",
+            "Southern Hemisphere": "November-April"
+        }
+    ]
+}
