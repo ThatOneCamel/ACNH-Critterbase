@@ -35,6 +35,8 @@ def insectAll(request):
     return JsonResponse(output,safe=False)
 
 def insect(request,name):
+    if "-" in name:
+        name.replace("-"," ")
     i = Insect.objects.get(name=name)
     nMonths = []
     sMonths = []
