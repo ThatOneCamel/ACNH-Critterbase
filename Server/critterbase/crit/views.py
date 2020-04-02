@@ -17,9 +17,9 @@ def fishAll(request):
 
 def fish(request,name):
     if "%20" in name:
-        name = name.replace("%20," ")
+        name = name.replace("%20"," ")
     if "%2520" in name:
-        name = name.replace("%2520," ")
+        name = name.replace("%2520"," ")
     f = Fish.objects.get(name=name)
     nMonths = []
     sMonths = []
@@ -39,9 +39,9 @@ def insectAll(request):
     return JsonResponse(output,safe=False)
 def insect(request,name):
     if "%20" in name:
-        name = name.replace("%20," ")
+        name = name.replace("%20"," ")
     if "%2520" in name:
-        name = name.replace("%2520," ")
+        name = name.replace("%2520"," ")
     i = Insect.objects.get(name=name)
     nMonths = []
     sMonths = []
