@@ -16,8 +16,10 @@ def fishAll(request):
     return JsonResponse(output,safe=False)
 
 def fish(request,name):
-    if "-" in name:
-        name = name.replace("-"," ")
+    if "%20" in name:
+        name = name.replace("%20," ")
+    if "%2520" in name:
+        name = name.replace("%2520," ")
     f = Fish.objects.get(name=name)
     nMonths = []
     sMonths = []
@@ -35,10 +37,11 @@ def insectAll(request):
     for i in insect_list:
         output.append(i.name)
     return JsonResponse(output,safe=False)
-
 def insect(request,name):
-    if "-" in name:
-        name = name.replace("-"," ")
+    if "%20" in name:
+        name = name.replace("%20," ")
+    if "%2520" in name:
+        name = name.replace("%2520," ")
     i = Insect.objects.get(name=name)
     nMonths = []
     sMonths = []
